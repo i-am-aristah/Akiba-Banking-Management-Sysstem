@@ -1,1 +1,1 @@
-# Akiba-Banking-Management-Sysstem
+# Akiba-Banking-Management-System
