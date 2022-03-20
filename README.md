@@ -2,10 +2,15 @@
 
 ## Home Screens
 ------
-![alt text](../main/screenshots/login_signup.png)
+![Homepage](../main/screenshots/home1.png)
+![Homepage](../main/screenshots/home2.png)
 
 ## Profile
 ------
-![alt text](../main/screenshots/home_medical_specialist.png)
+![Profile](../main/screenshots/profile.png)
+
+## Profile
+------
+![alt text](../main/screenshots/profile.png)
 
 
